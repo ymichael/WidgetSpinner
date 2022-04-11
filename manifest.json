@@ -1,0 +1,10 @@
+{
+  "name": "Spinner",
+  "id": "widget-id-XzZYJeO5Nu",
+  "api": "1.0.0",
+  "editorType": ["figjam"],
+  "permissions": ["activeusers"],
+  "containsWidget": true,
+  "main": "dist/code.js",
+  "widgetApi": "1.0.0"
+}
