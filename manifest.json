@@ -2,7 +2,7 @@
   "name": "Spinner",
   "id": "widget-id-XzZYJeO5Nu",
   "api": "1.0.0",
-  "editorType": ["figjam"],
+  "editorType": ["figjam", "figma"],
   "permissions": ["activeusers"],
   "containsWidget": true,
   "main": "dist/code.js",
